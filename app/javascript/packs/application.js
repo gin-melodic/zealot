@@ -33,6 +33,7 @@ require("javascripts/debug_files");
 require("javascripts/releases");
 require("javascripts/teardown/upload");
 require("javascripts/udid");
+require("javascripts/fontawesome/icons");
 
 var HOST = location.protocol + "//" + location.hostname + (location.port ? ":" + location.port : "") + "/";
 
